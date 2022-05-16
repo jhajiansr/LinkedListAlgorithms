@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{535C04D7-A2A5-47C7-83E0-B340A995CD1F}") = "LinkedListAlgorithms", "LinkedListAlgorithms.cblproj", "{80E50B5C-F416-4F1F-9734-0CD6E61B2D0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80E50B5C-F416-4F1F-9734-0CD6E61B2D0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E50B5C-F416-4F1F-9734-0CD6E61B2D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80E50B5C-F416-4F1F-9734-0CD6E61B2D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E50B5C-F416-4F1F-9734-0CD6E61B2D0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78745E1F-5404-40A4-9AF7-C38FE2114E2C}
+	EndGlobalSection
+EndGlobal
